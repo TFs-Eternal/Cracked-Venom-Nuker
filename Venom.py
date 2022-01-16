@@ -1,7 +1,4 @@
-# decompyle3 version 3.9.0a1
-# Python bytecode version base 3.8.0 (3413)
-# Decompiled from: Python 3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:37:50) [MSC v.1916 64 bit (AMD64)]
-# Embedded file name: 1.py
+
 import os, sys, time, requests, json, discord, asyncio, threading
 from discord.ext import commands
 os.system('cls')
